@@ -19,3 +19,4 @@ Note: All commands are case sensitive
 * fight me
 * guard
 * tossall
+* collect
